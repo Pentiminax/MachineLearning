@@ -4,4 +4,4 @@ Dépôt pour la création d'un d'un modèle d'apprentissage automatique en C# av
 
 ### YouTube
 
-[![Vidéo](http://i3.ytimg.com/vi/7gWsGFJKCGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=7gWsGFJKCGc)
+[![Vidéo](https://i3.ytimg.com/vi/6IKpPaEx04Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=6IKpPaEx04Y)
